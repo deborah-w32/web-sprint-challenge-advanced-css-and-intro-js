@@ -22,11 +22,30 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe preprocessing to someone new to CSS?
+<!-- 1. How would you describe preprocessing to someone new to CSS?
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
-5. What is JSON data?
+5. What is JSON data? -->
+
+1. How would you describe acessibility on the web to someone new to programming?
+
+Accessibilty helps those who may have more trouble than the average user be able to still access your webpage. i.e., giving wider click margins to buttons and menus for some who have poor motor skills, or avoiding high-contrast colors who have light and color sensitivites (like me).
+
+2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Give wider click margins to buttons and menus for some who have poor motor skills.
+Avoid high-contrast colors who have light and color sensitivites (like me).
+Adjust color palettes to help people with color blindness still be able to read your website.
+Add alt logos to images and titles to links so that those that are using screen readers know what is on your site.
+Use proper HTML syntax so that screen readers can make sense of your website.
+
+
+3. How would you explain the concept of a variable to someone new to programming?
+
+Variables are containers that can be used to store data.
+
+4. What is the purpose of using functions in code?
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -36,10 +55,10 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Follow these steps to set up your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your Team Lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Create a forked copy of this project.
+- [x] Add your Team Lead as collaborator on Github.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 
 ### Task 2a:  Minimum Viable Product - Responsive Design
 
